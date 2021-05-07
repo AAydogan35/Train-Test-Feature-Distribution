@@ -1,0 +1,1 @@
+This function calculates feature distributions within the train and test sets against binary classification classes in the target data. If the calculated stat differences are higher than the given treshold than the related features are droped from the test and train sets.
